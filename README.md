@@ -97,7 +97,6 @@
 <img width="1831" height="882" alt="Capture d’écran 2026-03-05 020052" src="https://github.com/user-attachments/assets/afb23c8f-fead-4a6d-88a9-84ad3d606f16" />
 <img width="1825" height="891" alt="Capture d’écran 2026-03-05 020118" src="https://github.com/user-attachments/assets/eaeeb076-6da4-4778-9aae-95b03f71a2a0" />
 <img width="1827" height="892" alt="Capture d’écran 2026-03-05 020138" src="https://github.com/user-attachments/assets/f0bc0a2e-67bd-47bc-99d9-3be586a0dc7c" />
-<img width="1823" height="886" alt="Capture d’écran 2026-03-05 020200" src="https://github.com/user-attachments/assets/8bb16933-5af6-4962-8da0-cc094029a625" />
 <img width="1819" height="886" alt="Capture d’écran 2026-03-05 020227" src="https://github.com/user-attachments/assets/46534494-ae9e-493a-9f0a-f4d6b0fb3654" />
 
 
